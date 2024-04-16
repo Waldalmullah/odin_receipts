@@ -1,0 +1,34 @@
+.title {
+    font-size: 36px;
+    color: lightslategray;
+    text-align: center;
+}
+#recipes-link{
+    font-size: 20px;
+    color: goldenrod;
+    text-align: left;
+    
+}
+.images {
+    height: 310px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+p{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.recipes-list{
+    font-size: 20px;
+    text-align: left;
+    color: darkmagenta;
+    
+}
+.subtitle{
+    color: lightslategray;
+    
+}
